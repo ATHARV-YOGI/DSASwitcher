@@ -1,0 +1,22 @@
+ [
+  {"title": "Reverse Array", "link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"},
+  {"title": "Kth Smallest Element", "link": "https://www.geeksforgeeks.org/kth-smallest-element-in-an-array/"},
+  {"title": "Find the Maximum and Minimum Element in an Array", "link": "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/"},
+  {"title": "Find the Kth max and min element of an array", "link": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/"},
+  {"title": "Sort an array of 0s, 1s and 2s", "link": "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/"},
+  {"title": "Move all negative numbers to beginning and positive to end", "link": "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/"},
+  {"title": "Kadane’s Algorithm", "link": "https://www.geeksforgeeks.org/kadanes-algorithm-maximum-subarray-sum-in-an-array/"},
+  {"title": "Find Union and Intersection of two arrays", "link": "https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/"},
+  {"title": "Cyclically rotate an array by one", "link": "https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/"},
+  {"title": "Find Largest sum contiguous Subarray", "link": "https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/"},
+  {"title": "Minimize the Heights II", "link": "https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/"},
+  {"title": "Minimum number of jumps to reach end", "link": "https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/"},
+  {"title": "Merge Intervals", "link": "https://www.geeksforgeeks.org/merging-intervals/"},
+  {"title": "Next Permutation", "link": "https://www.geeksforgeeks.org/find-next-greater-number-set-digits/"},
+  {"title": "Count Inversions", "link": "https://www.geeksforgeeks.org/counting-inversions/"},
+  {"title": "Best time to buy and Sell stock", "link": "https://www.geeksforgeeks.org/stock-buy-sell/"},
+  {"title": "Find Duplicate in Array", "link": "https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/"},
+  {"title": "Merge two sorted arrays without extra space", "link": "https://www.geeksforgeeks.org/merge-two-sorted-arrays-without-extra-space/"},
+  {"title": "Kadane’s Algorithm (Max subarray sum)", "link": "https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/"},
+  {"title": "Find Missing and Repeating", "link": "https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/"}
+]

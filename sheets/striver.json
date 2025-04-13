@@ -1,0 +1,22 @@
+[
+  {"title": "Two Sum", "link": "https://leetcode.com/problems/two-sum/"},
+  {"title": "Sort Colors", "link": "https://leetcode.com/problems/sort-colors/"},
+  {"title": "Best Time to Buy and Sell Stock", "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"},
+  {"title": "Majority Element", "link": "https://leetcode.com/problems/majority-element/"},
+  {"title": "Kadane’s Algorithm", "link": "https://leetcode.com/problems/maximum-subarray/"},
+  {"title": "Rotate Image", "link": "https://leetcode.com/problems/rotate-image/"},
+  {"title": "Pascal's Triangle", "link": "https://leetcode.com/problems/pascals-triangle/"},
+  {"title": "Set Matrix Zeroes", "link": "https://leetcode.com/problems/set-matrix-zeroes/"},
+  {"title": "Search a 2D Matrix", "link": "https://leetcode.com/problems/search-a-2d-matrix/"},
+  {"title": "Pow(x, n)", "link": "https://leetcode.com/problems/powx-n/"},
+  {"title": "Merge Intervals", "link": "https://leetcode.com/problems/merge-intervals/"},
+  {"title": "Next Permutation", "link": "https://leetcode.com/problems/next-permutation/"},
+  {"title": "Longest Consecutive Sequence", "link": "https://leetcode.com/problems/longest-consecutive-sequence/"},
+  {"title": "Longest Substring Without Repeating Characters", "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"},
+  {"title": "Longest Palindromic Substring", "link": "https://leetcode.com/problems/longest-palindromic-substring/"},
+  {"title": "Reverse Linked List", "link": "https://leetcode.com/problems/reverse-linked-list/"},
+  {"title": "Detect Cycle in a Linked List", "link": "https://leetcode.com/problems/linked-list-cycle/"},
+  {"title": "Merge Two Sorted Lists", "link": "https://leetcode.com/problems/merge-two-sorted-lists/"},
+  {"title": "Add Two Numbers", "link": "https://leetcode.com/problems/add-two-numbers/"},
+  {"title": "Intersection of Two Linked Lists", "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/"}
+]
