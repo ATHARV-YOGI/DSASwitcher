@@ -10,7 +10,6 @@ chrome.runtime.onInstalled.addListener(() => {
 });
 
 const allowedDomains = ['leetcode.com', 'geeksforgeeks.org'];
-
 function isDSASite(url) {
   return allowedDomains.some(domain => url.includes(domain));
 }
